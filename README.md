@@ -1,5 +1,2 @@
-4 лаба обработка ошибок Добавил логирование действий и ошибок. Подключил Swagger & CheckStyle. Убрал стилистические ошибки.
-![image](https://github.com/user-attachments/assets/ce076496-313f-41bb-bfa8-aa3b893fc6fb)
-
-![image](https://github.com/user-attachments/assets/9289d712-a058-4c19-844a-eb624905cfbc)
-
+5 лаба Добавил POST метод для работы со списком параметров для bulk операций.Организовал работу сервиса используя Java 8. Добавлены unit-тесты для сервисов с покрытием бизнес-логики более 80%
+![image](https://github.com/user-attachments/assets/20f59b4b-cec6-476b-b907-3b1c3cc8c12e)
